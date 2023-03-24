@@ -1,0 +1,45 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+
+#topBox {
+    border: 2px solid greenyellow;
+    display:block;
+    width:98vw;
+    height:25vh;
+    margin-bottom: 10px;
+}
+
+#inputBox {
+    border: 2px solid red;
+    display:block;
+    width:40vw;
+    height:70vh;
+    position: absolute;
+    left:5vw;
+    top: 27.5vh;
+}
+
+#outputBox {
+    border: 2px solid blue;
+    display:block;
+    width:40vw;
+    height:70vh;
+    position: absolute;
+    left:50vw;
+    top: 27.5vh;
+}
+
+#insideBox {
+    border:2px solid yellow;
+    display:block;
+    width: 34vw;
+    height:60vh;
+    padding-right:30px;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 20px;
+}
