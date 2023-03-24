@@ -36,10 +36,17 @@ body{
     display:block;
     width: 34vw;
     height:60vh;
-    padding-right:30px;
+    margin-left:30px;
 }
 
 h2 {
     text-align: left;
     margin-left: 20px;
+    border:1px solid purple;
+    margin-right:20px;
+}
+
+form {
+    text-align: left;
+    margin-left: 30px;
 }
